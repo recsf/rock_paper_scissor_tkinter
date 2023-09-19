@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 from random import *
+from functions import spin
 
 root = Tk()
 
